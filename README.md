@@ -14,3 +14,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+  # prefer_const_constructors: false
+  # prefer_const_literals_to_create_immutables: false
+  # prefer_const_constructors_in_immutables: false
